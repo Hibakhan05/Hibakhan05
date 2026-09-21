@@ -2,7 +2,9 @@
 
 # Hi, I'm Hiba
 
-### Web Developer | Frontend Developer
+![Animated illustration of a developer coding](./assets/gif-coding.gif)
+
+### Web Developer | Frontend-Focused
 
 Building interfaces, learning by doing, and turning ideas into interactive web experiences.
 
@@ -57,7 +59,7 @@ Currently, I'm working mainly with HTML, CSS, JavaScript and React, with a growi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hibakhan05&show_icons=true&theme=tokyonight&hide_border=true" />
+![Hiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hibakhan05&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -67,25 +69,13 @@ Currently, I'm working mainly with HTML, CSS, JavaScript and React, with a growi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hibakhan05/Hibakhan05/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation">
+![GitHub Contribution Snake](https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg)
+
 
 </div>
 
 ---
 
-## Learning Journey
-
-<div align="center">
-
-**Frontend Development  →  Backend Development  →  Full-Stack Development**
-
-</div>
-
-I'm currently focused on frontend development, while gradually moving towards backend development.
-
-I'm not rushing to put a title on the journey. I'm focused on building projects, learning consistently, and improving one step at a time.
-
----
 
 <div align="center">
 
